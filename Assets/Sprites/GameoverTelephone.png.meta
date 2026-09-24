@@ -1,0 +1,1302 @@
+fileFormatVersion: 2
+guid: 0c6ebb7b5f299bb4386d1cf7d356d438
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4552695118730023247
+    second: GameoverTelephone_0
+  - first:
+      213: 8432663083872905279
+    second: GameoverTelephone_1
+  - first:
+      213: -5629827486184447415
+    second: GameoverTelephone_2
+  - first:
+      213: 1815233772092933233
+    second: GameoverTelephone_3
+  - first:
+      213: -5817555458220811481
+    second: GameoverTelephone_4
+  - first:
+      213: 1125532189586204310
+    second: GameoverTelephone_5
+  - first:
+      213: -3223238353712283529
+    second: GameoverTelephone_6
+  - first:
+      213: -714644961774133037
+    second: GameoverTelephone_7
+  - first:
+      213: -7348994179380451026
+    second: GameoverTelephone_8
+  - first:
+      213: 7072182915380243782
+    second: GameoverTelephone_9
+  - first:
+      213: -8049909467677975734
+    second: GameoverTelephone_10
+  - first:
+      213: 4090330717790756421
+    second: GameoverTelephone_11
+  - first:
+      213: 7335038715212578400
+    second: GameoverTelephone_12
+  - first:
+      213: -2668471758285826454
+    second: GameoverTelephone_13
+  - first:
+      213: 348589002833850654
+    second: GameoverTelephone_14
+  - first:
+      213: 8042378542918676968
+    second: GameoverTelephone_15
+  - first:
+      213: 1212334478032050721
+    second: GameoverTelephone_16
+  - first:
+      213: -5812267307614620949
+    second: GameoverTelephone_17
+  - first:
+      213: -4505049860543776790
+    second: GameoverTelephone_18
+  - first:
+      213: -2854888943344360931
+    second: GameoverTelephone_19
+  - first:
+      213: -4051763015510182654
+    second: GameoverTelephone_20
+  - first:
+      213: 1524289474578058203
+    second: GameoverTelephone_21
+  - first:
+      213: -657244968066522532
+    second: GameoverTelephone_22
+  - first:
+      213: -3127196443157995625
+    second: GameoverTelephone_23
+  - first:
+      213: -5110672212588685898
+    second: GameoverTelephone_24
+  - first:
+      213: -1391990062859653342
+    second: GameoverTelephone_25
+  - first:
+      213: -4848567727156854952
+    second: GameoverTelephone_26
+  - first:
+      213: 8196669426140700845
+    second: GameoverTelephone_27
+  - first:
+      213: -3852602883493412915
+    second: GameoverTelephone_28
+  - first:
+      213: 1112324138345013919
+    second: GameoverTelephone_29
+  - first:
+      213: 482155418768267224
+    second: GameoverTelephone_30
+  - first:
+      213: -6620355200852484742
+    second: GameoverTelephone_31
+  - first:
+      213: 6817542162274658481
+    second: GameoverTelephone_32
+  - first:
+      213: -8825687497213715341
+    second: GameoverTelephone_33
+  - first:
+      213: -6143639230682109517
+    second: GameoverTelephone_34
+  - first:
+      213: 5122177880436528611
+    second: GameoverTelephone_35
+  - first:
+      213: 2036910346956035447
+    second: GameoverTelephone_36
+  - first:
+      213: 8817349188628547440
+    second: GameoverTelephone_37
+  - first:
+      213: 7893318211501432301
+    second: GameoverTelephone_38
+  - first:
+      213: -7660570395112226617
+    second: GameoverTelephone_39
+  - first:
+      213: -7723142192567684113
+    second: GameoverTelephone_40
+  - first:
+      213: -515467815705610619
+    second: GameoverTelephone_41
+  - first:
+      213: 1397485449659122651
+    second: GameoverTelephone_42
+  - first:
+      213: 3808866600115218627
+    second: GameoverTelephone_43
+  - first:
+      213: -3788179633011146740
+    second: GameoverTelephone_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GameoverTelephone_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 1448
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41de8ad61c6e2f30800000000000000
+      internalID: 4552695118730023247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_1
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1077
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f386bc88566d60570800000000000000
+      internalID: 8432663083872905279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1026
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942ee3bbab5ded1b0800000000000000
+      internalID: -5629827486184447415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 84
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17444e98f71013910800000000000000
+      internalID: 1815233772092933233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_4
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 86
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72b1d9b2224e34fa0800000000000000
+      internalID: -5817555458220811481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_5
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 20
+        width: 135
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696ad872091be9f00800000000000000
+      internalID: 1125532189586204310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_6
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 29
+        width: 197
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77080947bc1c443d0800000000000000
+      internalID: -3223238353712283529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_7
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 64
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d02ee091321516f0800000000000000
+      internalID: -714644961774133037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_8
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 78
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e296d910bb0230a90800000000000000
+      internalID: -7348994179380451026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_9
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 90
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d63d934e0752260800000000000000
+      internalID: 7072182915380243782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_10
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 92
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b10094df9f84090800000000000000
+      internalID: -8049909467677975734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_11
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 78
+        width: 51
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e59c7cd16c3c830800000000000000
+      internalID: 4090330717790756421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_12
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 50
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06ebbf949da4bc560800000000000000
+      internalID: 7335038715212578400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_13
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 66
+        width: 33
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a661632f21fa7fad0800000000000000
+      internalID: -2668471758285826454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_14
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 31
+        width: 48
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11f486e9df66d400800000000000000
+      internalID: 348589002833850654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_15
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 48
+        width: 39
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e134e7aca44c9f60800000000000000
+      internalID: 8042378542918676968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_16
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 87
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a1f08d8c313d010800000000000000
+      internalID: 1212334478032050721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_17
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 80
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2b30eadada65fa0800000000000000
+      internalID: -5812267307614620949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_18
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 90
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae77dd64509da71c0800000000000000
+      internalID: -4505049860543776790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 15
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12e4c2c1a56168d0800000000000000
+      internalID: -2854888943344360931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_20
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 64
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 205337a210f35c7c0800000000000000
+      internalID: -4051763015510182654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_21
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 62
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdb871b733d572510800000000000000
+      internalID: 1524289474578058203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 64
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c526bfb0f2ff0e6f0800000000000000
+      internalID: -657244968066522532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_23
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 64
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fd3be4767f994d0800000000000000
+      internalID: -3127196443157995625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_24
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 47
+        width: 21
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5113d33be3319b0800000000000000
+      internalID: -5110672212588685898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_25
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 66
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22f6064b968aeace0800000000000000
+      internalID: -1391990062859653342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_26
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 47
+        width: 47
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f7469475d66bcb0800000000000000
+      internalID: -4848567727156854952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_27
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 51
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0eb6e4a6b60c170800000000000000
+      internalID: 8196669426140700845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_28
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 52
+        width: 46
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfbab4e61ec88ac0800000000000000
+      internalID: -3852602883493412915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_29
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 71
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92a52519e4cf6f00800000000000000
+      internalID: 1112324138345013919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_30
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 51
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7563e7cc5f0b600800000000000000
+      internalID: 482155418768267224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_31
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 48
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d174e5506cf14a0800000000000000
+      internalID: -6620355200852484742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_32
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 48
+        width: 29
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b821a7c976cc9e50800000000000000
+      internalID: 6817542162274658481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_33
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 43
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c58f55bfbd48580800000000000000
+      internalID: -8825687497213715341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_34
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 50
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9e90b8ba86dbaa0800000000000000
+      internalID: -6143639230682109517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_35
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 50
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e558cfc4a1a51740800000000000000
+      internalID: 5122177880436528611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_36
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 34
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775d1a52b2f844c10800000000000000
+      internalID: 2036910346956035447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_37
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 13
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07788c8ee548d5a70800000000000000
+      internalID: 8817349188628547440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_38
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 23
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded1aafb713ba8d60800000000000000
+      internalID: 7893318211501432301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_39
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 31
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c0467620df20b590800000000000000
+      internalID: -7660570395112226617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_40
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3fb264813e1d490800000000000000
+      internalID: -7723142192567684113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_41
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 34
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58678bfa0c0b8d8f0800000000000000
+      internalID: -515467815705610619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_42
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 27
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd385bdbc9dd46310800000000000000
+      internalID: 1397485449659122651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_43
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 15
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c8a7b81effcbd430800000000000000
+      internalID: 3808866600115218627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GameoverTelephone_44
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 17
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c004005c1bead6bc0800000000000000
+      internalID: -3788179633011146740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GameoverTelephone_0: 4552695118730023247
+      GameoverTelephone_1: 8432663083872905279
+      GameoverTelephone_10: -8049909467677975734
+      GameoverTelephone_11: 4090330717790756421
+      GameoverTelephone_12: 7335038715212578400
+      GameoverTelephone_13: -2668471758285826454
+      GameoverTelephone_14: 348589002833850654
+      GameoverTelephone_15: 8042378542918676968
+      GameoverTelephone_16: 1212334478032050721
+      GameoverTelephone_17: -5812267307614620949
+      GameoverTelephone_18: -4505049860543776790
+      GameoverTelephone_19: -2854888943344360931
+      GameoverTelephone_2: -5629827486184447415
+      GameoverTelephone_20: -4051763015510182654
+      GameoverTelephone_21: 1524289474578058203
+      GameoverTelephone_22: -657244968066522532
+      GameoverTelephone_23: -3127196443157995625
+      GameoverTelephone_24: -5110672212588685898
+      GameoverTelephone_25: -1391990062859653342
+      GameoverTelephone_26: -4848567727156854952
+      GameoverTelephone_27: 8196669426140700845
+      GameoverTelephone_28: -3852602883493412915
+      GameoverTelephone_29: 1112324138345013919
+      GameoverTelephone_3: 1815233772092933233
+      GameoverTelephone_30: 482155418768267224
+      GameoverTelephone_31: -6620355200852484742
+      GameoverTelephone_32: 6817542162274658481
+      GameoverTelephone_33: -8825687497213715341
+      GameoverTelephone_34: -6143639230682109517
+      GameoverTelephone_35: 5122177880436528611
+      GameoverTelephone_36: 2036910346956035447
+      GameoverTelephone_37: 8817349188628547440
+      GameoverTelephone_38: 7893318211501432301
+      GameoverTelephone_39: -7660570395112226617
+      GameoverTelephone_4: -5817555458220811481
+      GameoverTelephone_40: -7723142192567684113
+      GameoverTelephone_41: -515467815705610619
+      GameoverTelephone_42: 1397485449659122651
+      GameoverTelephone_43: 3808866600115218627
+      GameoverTelephone_44: -3788179633011146740
+      GameoverTelephone_5: 1125532189586204310
+      GameoverTelephone_6: -3223238353712283529
+      GameoverTelephone_7: -714644961774133037
+      GameoverTelephone_8: -7348994179380451026
+      GameoverTelephone_9: 7072182915380243782
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

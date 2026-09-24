@@ -1,16 +1,25 @@
 fileFormatVersion: 2
-guid: c236b3497c8067e4280c129661fb7398
+guid: 4bf0045750c4aa649954792384848c77
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5189691121816951081
-    second: card_0
+      213: -8157243782541132739
+    second: PilarBaixo_0
   - first:
-      213: -1150797853226429853
-    second: card_1
+      213: -6448531454333201156
+    second: PilarBaixo_1
   - first:
-      213: 4179361977775431376
-    second: card_2
+      213: 7463608983397986130
+    second: PilarBaixo_2
+  - first:
+      213: -3169266031433966007
+    second: PilarBaixo_3
+  - first:
+      213: 1168805509346892745
+    second: PilarBaixo_4
+  - first:
+      213: 1295920792955329135
+    second: PilarBaixo_5
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -54,7 +63,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -121,13 +130,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: card_0
+      name: PilarBaixo_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1633
-        height: 962
+        width: 619
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,42 +145,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 929d5e1449c750840800000000000000
-      internalID: 5189691121816951081
+      spriteID: d3c3f5baff5abce80800000000000000
+      internalID: -8157243782541132739
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: card_1
+      name: PilarBaixo_1
       rect:
         serializedVersion: 2
-        x: 7
-        y: 519
-        width: 20
-        height: 12
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 362182e137b8700f0800000000000000
-      internalID: -1150797853226429853
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: card_2
-      rect:
-        serializedVersion: 2
-        x: 1619
-        y: 196
+        x: 610
+        y: 711
         width: 9
-        height: 10
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -180,8 +167,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 0de14195393100a30800000000000000
-      internalID: 4179361977775431376
+      spriteID: cf4598ddec63286a0800000000000000
+      internalID: -6448531454333201156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilarBaixo_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 433
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fe9d593d0149760800000000000000
+      internalID: 7463608983397986130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilarBaixo_3
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 339
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e9aadf5518404d0800000000000000
+      internalID: -3169266031433966007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilarBaixo_4
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 241
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb142c0b6e683010800000000000000
+      internalID: 1168805509346892745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PilarBaixo_5
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 111
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a152958190cf110800000000000000
+      internalID: 1295920792955329135
       vertices: []
       indices: 
       edges: []
@@ -200,9 +275,12 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      card_0: 5189691121816951081
-      card_1: -1150797853226429853
-      card_2: 4179361977775431376
+      PilarBaixo_0: -8157243782541132739
+      PilarBaixo_1: -6448531454333201156
+      PilarBaixo_2: 7463608983397986130
+      PilarBaixo_3: -3169266031433966007
+      PilarBaixo_4: 1168805509346892745
+      PilarBaixo_5: 1295920792955329135
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -15,7 +15,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SelecaoFase.unity
     guid: 1a05b5064c51d774bb2ee37ab01409ba
   - enabled: 1
-    path: Assets/Scenes/Gameplay.unity
+    path: Assets/Scenes/Telephone.unity
     guid: f361fd822d2dc2543a1de0c714c02445
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

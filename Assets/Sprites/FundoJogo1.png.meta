@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3d60ebce1df550740b37df8d201bbcdf
+guid: ea1928a0ff1e82e4e91d11c6f27e9beb
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2464601173085898994
-    second: Abracadabra_0
+      213: 3236309001226058912
+    second: FundoJogo1_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Abracadabra_0
+      name: FundoJogo1_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1086
-        height: 1448
+        width: 1672
+        height: 941
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: e0734358a4afbcdd0800000000000000
-      internalID: -2464601173085898994
+      spriteID: 0ac7a71d3eda9ec20800000000000000
+      internalID: 3236309001226058912
       vertices: []
       indices: 
       edges: []
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Abracadabra_0: -2464601173085898994
+      FundoJogo1_0: 3236309001226058912
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

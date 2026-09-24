@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 746ed5967d5f41f47bb3388031f37ee0
+guid: 4aaf1d59fc5f3bc40abfb3d8dec67a62
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3588837214723213169
-    second: fundoFases_0
+      213: -6555575649291838755
+    second: Cards_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,9 +46,9 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 0
+  spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
@@ -115,12 +115,12 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: fundoFases_0
+      name: Cards_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 112
         y: 0
-        width: 1671
+        width: 1438
         height: 941
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f8878b35193e13ec0800000000000000
-      internalID: -3588837214723213169
+      spriteID: dda52cd0eaae505a0800000000000000
+      internalID: -6555575649291838755
       vertices: []
       indices: 
       edges: []
@@ -140,7 +140,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      fundoFases_0: -3588837214723213169
+      Cards_0: -6555575649291838755
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 6c8586389c69f304ba6ec38bc9b5c783
+guid: 4d4535d5f4d2d4840a39d1acb57f7193
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4304068389256235507
-    second: Pokerface_0
+      213: -213278843759301416
+    second: Frame6_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -115,13 +115,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Pokerface_0
+      name: Frame6_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 1086
-        height: 1448
+        y: 23
+        width: 518
+        height: 471
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -130,8 +130,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d06f4699a90e444c0800000000000000
-      internalID: -4304068389256235507
+      spriteID: 8dcee9785084a0df0800000000000000
+      internalID: -213278843759301416
       vertices: []
       indices: 
       edges: []
@@ -150,7 +150,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Pokerface_0: -4304068389256235507
+      Frame6_0: -213278843759301416
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
